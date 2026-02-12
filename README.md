@@ -20,7 +20,17 @@ A frontend Employee Management System built using React and Tailwind CSS. This p
 - Local Storage
 
 ## 📸 Screenshots
-(Add screenshots below)
+## 📸 Project Screenshots
+
+### 🔐 Login Page
+![Login](login.png)
+
+### 👨‍💼 Admin Dashboard
+![Admin](admin.png)
+
+### 👨‍💻 Employee Dashboard
+![Employee](employee.png)
+
 
 ## ⚙️ Installation
 git clone https://github.com/devkhanna6/employee-management-system.git
